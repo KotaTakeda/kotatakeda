@@ -1,6 +1,13 @@
-### Hello 👋
-[My web site](https://kotatakeda.github.io)
+# About me
+[Visit my web site](https://kotatakeda.github.io)
 
+# Activities
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kotatakeda&show_icons=true&hide_border=true&theme=ambient_gradient&bg_color=30,7a90f5,46cbc3" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotatakeda&hide_border=true&theme=ambient_gradient&bg_color=30,7a90f5,46cbc3" height="180">
+</div>
+
+## Skills
 <p>
   <img src="https://img.shields.io/badge/-Python-3670A0.svg?logo=python&style=flat&logoColor=F9DC3E">
   <!-- <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat&logo=Anaconda&logoColor=white"> -->
