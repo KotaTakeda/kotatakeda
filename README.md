@@ -4,7 +4,7 @@
 # Activities
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kotatakeda&show_icons=true&hide_border=true&theme=ambient_gradient&bg_color=30,7a90f5,46cbc3" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotatakeda&hide_border=true&theme=ambient_gradient&bg_color=30,7a90f5,46cbc3" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotatakeda&size_weight=0.5&count_weight=0.5&hide_border=true&theme=ambient_gradient&bg_color=30,7a90f5,46cbc3" height="180">
 </div>
 
 ## Skills
