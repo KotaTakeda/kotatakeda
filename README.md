@@ -30,6 +30,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/React-000.svg?style=flat&logo=React&logoColor=61DAFB"/>
   <img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000.svg?style=flat&logo=WebGL&logoColor=white"/>
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-701516.svg?logo=ruby&logoColor=white" />
+  <img alt="Rails" src="https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white" />
 </p>
 
 <p>
@@ -44,11 +46,11 @@
 </p>
 
 <p>
+  <img alt="Matlab" src="https://img.shields.io/badge/Matlab-276DC3?style=flat&logo=Matlab&logoColor=FFFFFF"/>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white"/>
   <img alt="Fortran" src="https://img.shields.io/badge/Fortran-734F96.svg?style=flat&logo=Fortran&logoColor=FFFFFF"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-734F96.svg?style=flat&logo=cplusplus&logoColor=FFFFFF"/>
 </p>
-
 
 
 <!-- ### Research Areas -->
